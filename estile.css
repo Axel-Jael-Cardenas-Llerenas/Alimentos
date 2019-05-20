@@ -53,7 +53,7 @@ border-right:1px solid #fff;
     text-decoration: none;
       border-radius:60px;
 }
-@media(max-width:700px){
+@media(max-width:0px){
      
     header label{
     display: block;
